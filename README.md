@@ -1,5 +1,5 @@
 # RENTAL COMPANY ANALYSIS 
-A complex analysis of a rental company Rock Booster 
+A complex analysis of a rental company Rock Booster LLC. 
 
 ## ABOUT THE COMPANY 
 Rock buster LLC, a global movie rental company formerly known for its physical stores, is facing intense competition from streaming giants like Netflix and Amazon Prime. To remain competitive, the management team is leveraging its existing movie licenses to launch an online video rental service.
@@ -24,6 +24,6 @@ Rock Buster Internal Datasets
 
 ## TOOLS 
 
-PostgreSQL (pgAdmin 4)
+PostgreSQL (pgAdmin 4).
 
 The analysis was conducted for educational purposes using publicly available data and adheres to all privacy policy regulations.
